@@ -8,8 +8,8 @@ export default function Footer({ links }) {
         <Row>
           <Col lg={4}>
             <div className="mb-4">
-              <p className="text-muted mt-4 mb-2">your-email@email.com</p>
-              <h6 className="text-muted font-weight-normal">+1 555-2368</h6>
+              <p className="text-muted mt-4 mb-2">plazma1754@mail.ru</p>
+              <h6 className="text-muted font-weight-normal">+79320194990</h6>
             </div>
           </Col>
           <Col lg={8}>
@@ -28,8 +28,8 @@ export default function Footer({ links }) {
               ))}
 
               <Col md={4}>
-                <h6 className="text-dark mb-3">Our Address</h6>
-                <p className="text-muted f-14">1234 Lorem Ipsum, 12345</p>
+                <h6 className="text-dark mb-3">Наш адрес</h6>
+                <p className="text-muted f-14">ул.Б.Ручьева 2</p>
                 <ul className="list-unstyled footer-social-list mt-4">
                   <li className="list-inline-item">
                     <a href="src/app/components/Footer#">
