@@ -10,9 +10,9 @@ export default function Header() {
           <Navbar.Toggle />
           <Navbar.Collapse>
             <Nav className="m-auto">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="#services">Services</Nav.Link>
-              <Nav.Link href="#about-us">About</Nav.Link>
+              <Nav.Link href="/">Главная</Nav.Link>
+              <Nav.Link href="#services">Услуги</Nav.Link>
+              <Nav.Link href="#about-us">О нас</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
